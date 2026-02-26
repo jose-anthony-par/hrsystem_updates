@@ -4,7 +4,6 @@
 <property key="maven.central" value="https://repo1.maven.org/maven2"/>
 </properties>
 <files>
-<file uri="https://github.com/jose-anthony-par/hrsystem_updates/blob/main/HRMain.jar" classpath="true" ignoreBootConflict="true"/>
+<file uri="https://raw.githubusercontent.com/jose-anthony-par/hrsystem_updates/refs/heads/main/HRMain.jar" classpath="true" ignoreBootConflict="true" size="1696592" checksum="3812b62"/>
 </files>
-
 </configuration>
